@@ -6,10 +6,10 @@ Este laboratorio nos introduce alas simulacions de código VHDL utilizando testb
 
 2. Los documentos asociados a la ejecución de este laboratorio son:
 
-* Compare.vhd: El cual contiene el código VHDL utilizado en el laboratorio (un primer ejemplo).
-* Compare2.vhd: El cual contiene el código VHDL utilizado en el laboratorio (un segundo ejemplo).
-* LAB02_VIVADO_Simulation.rar: Contine el projecto en vivado desarrollado en el laboratorio
-* LAB02_ZYBOZ7_Simulation.pdf: Contine la guía de desarrollo asociada a este laboratorio.
+* [Compare.vhd](): El cual contiene el código VHDL utilizado en el laboratorio (un primer ejemplo).
+* [Compare2.vhd](): El cual contiene el código VHDL utilizado en el laboratorio (un segundo ejemplo).
+* [LAB02_VIVADO_Simulation.rar](): Contine el projecto en vivado desarrollado en el laboratorio
+* [LAB02_ZYBOZ7_Simulation.pdf](): Contine la guía de desarrollo asociada a este laboratorio.
 
 3. Previo al Quiz02, realizado en los primeros 15min de cada laboratorio, debes estudiar personalizadamente:
 

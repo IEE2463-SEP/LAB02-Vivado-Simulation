@@ -2,7 +2,7 @@
 
 Este laboratorio nos introduce alas simulacions de código VHDL utilizando testbenchs en Vivado.
 
-1. Puedes ver el laboratorio 01 en este [link](https://youtu.be/QokZ1R7vCYQ)
+1. Puedes ver el laboratorio 02 en este [link](https://youtu.be/QokZ1R7vCYQ)
 
 2. Los documentos asociados a la ejecución de este laboratorio son:
 

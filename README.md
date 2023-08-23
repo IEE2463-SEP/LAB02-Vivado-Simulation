@@ -16,6 +16,6 @@ Este laboratorio nos introduce alas simulacions de código VHDL utilizando testb
 
 3. Previo al Quiz02, realizado en los primeros 15min de cada laboratorio, debes estudiar personalizadamente:
 
-* Ver y ejecutar el video del laboratorio 01.
+* Ver y ejecutar el video del laboratorio 02.
 * Contenidos de la Ayudantia 01
 * Lectura02 IEE2463

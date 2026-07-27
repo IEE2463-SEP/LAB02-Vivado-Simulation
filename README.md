@@ -18,6 +18,6 @@ Este laboratorio nos introduce alas simulacions de código VHDL utilizando testb
 
 * Ver y ejecutar el video del [laboratorio 02](https://youtu.be/QokZ1R7vCYQ)
 * Contenidos de la [Ayudantia 01](https://youtu.be/KSbtyjlAkPU)
-* [Lectura02 IEE2463](https://github.com/IEE2463-SEP/Lecturas)
+* [Lectura02 IEE2463](https://github.com/IEE2463-SEP/REF-Lecturas)
 
 4. [Actividad Práctica LAB02](https://github.com/IEE2463-SEP/LAB02-Vivado-Simulation/blob/main/LAB02_Simulation.pptx)
